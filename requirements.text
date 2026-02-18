@@ -1,0 +1,16 @@
+# requirements.txt - Módulo 2: Programación Básica en Python para IA
+# Versión recomendada: febrero 2026
+
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Opcionales para desarrollo local (no necesarios en Google Colab)
+jupyter>=1.0.0
+ipykernel>=6.29.0
+black>=24.0.0          # formateador de código (buenas prácticas)
+flake8>=7.0.0          # linter para PEP8
+
+# Para exportar notebooks limpios
+nbconvert>=7.16.0
